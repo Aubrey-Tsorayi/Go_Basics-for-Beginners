@@ -1,5 +1,5 @@
 # Requirements
-Make sure the GO complier from  <a href="https://golang.org/">here</a>.
+Make sure to download the GO complier from  <a href="https://golang.org/">here</a>.
 
 ## Run code
 Use the following commands:
